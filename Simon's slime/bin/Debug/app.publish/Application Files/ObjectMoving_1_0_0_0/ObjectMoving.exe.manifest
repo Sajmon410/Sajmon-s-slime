@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="ObjectMoving.exe" version="1.0.0.0" publicKeyToken="4cc437dd15f77b9c" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ObjectMoving" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="ObjectMoving.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ObjectMoving.exe" size="1597952">
+      <assemblyIdentity name="ObjectMoving" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>AYir8Jo1e1U17o9EUMUsncQLT+s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="donutgamwe.png" size="71369">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>MSVJQa1Fs0eWqBgO9oAWWM1Tpf4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="mushroom.png" size="7607">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>mMoJ2RsrjE3q7CDnbfHHzRFTpoM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="player.png" size="13465">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Oqad8GiSk3nVub1nioBzVFwdWP8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="simonceeeee.jpg" size="32144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nJnoghcFUrSn4X9e0x6SaaqV8A4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="slime.gif" size="151856">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dCci6G7vwuOEMnmwolbGDO5cOUM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SAJMON\mk" issuerKeyHash="f25515ccec6880c35097e1b023a8338a819c647d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Aof0WnndU9lHU9oyc9xSptxmGbg=</DigestValue></Reference></SignedInfo><SignatureValue>X35KscXj+UYbrH+r2v0wtuDCf2/zOjbUOjpR5w7AciPLRhl4In7h5zw2QwKB2l+a3Q/GIdsrsdzdAYROSGaQiwsFr73iAN4B7nKUFqjFIv3/zpfccF0x5zMmDnhgmFN6piRhnWIIAG5SUDr6s9Mi1kKhjHWxhzPV8co1jBcpGf0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2D4R2ocWiDdjtgd7x45f07HEYTL6NRF4whpnCVYHM/iGKLD0eu6YJlr85795jjBxWwzDdZ7kPOwDtXUmceDZxw64Mn+hVnP0FHD7pWpOm5DJVze6HeW4oCgLllfECCfZQpDMUx8P9a9h5TlQaC50iuexfHQM1iO+tRXl0ALtd4M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b81966dca652dc7332da5347d953dd795af48702" Description="" Url=""><as:assemblyIdentity name="ObjectMoving.exe" version="1.0.0.0" publicKeyToken="4cc437dd15f77b9c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SAJMON\mk</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1R1qeMbRLNSonFVP1GUePY35qbI=</DigestValue></Reference></SignedInfo><SignatureValue>j00G4cSODbSQZAxcaJly749/WbKrj4HkK5iExu3dGauGCEcS1bl+fxxWZcH8BsV6Ob8/ZIBX05L/BdThEp36JiZJD4C6GWr0yW2nCZ3ducXQotiKxIlGyxKqFLpNcSoRSJ58v5WvnQLieDRluFGiWcXLvC6wWenEtTm4lKdJnfM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2D4R2ocWiDdjtgd7x45f07HEYTL6NRF4whpnCVYHM/iGKLD0eu6YJlr85795jjBxWwzDdZ7kPOwDtXUmceDZxw64Mn+hVnP0FHD7pWpOm5DJVze6HeW4oCgLllfECCfZQpDMUx8P9a9h5TlQaC50iuexfHQM1iO+tRXl0ALtd4M=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQGR0Ry/0C75FJ+hyZFP4KzDANBgkqhkiG9w0BAQUFADAdMRswGQYDVQQDHhIAUwBBAEoATQBPAE4AXABtAGswHhcNMTkwODE3MTU1MjQ2WhcNMjAwODE2MjE1MjQ2WjAdMRswGQYDVQQDHhIAUwBBAEoATQBPAE4AXABtAGswgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANg+EdqHFog3Y7YHe8eOX9OxxGEy+jUReMIaZwlWBzP4hiiw9HrumCZa/Oe/eY4wcVsMw3We5DzsA7V1JnHg2ccOuDJ/oVZz9BRw+6VqTpuQyVc3uh3luKAoC5ZXxAgn2UKQzFMfD/WvYeU5UGgudIrnsXx0DNYjvrUV5dAC7XeDAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAvJdUT+RZpO3aCkZaUm8Hh7KBVx+cL0qi5dSvEsFRNBgBGwGBDnngb2XceC1opRT4csipJQ9bCKUI+4mtVJML2airlsNknTTvxp49+doq6o2aL7l2x+AfLAJF/IVXW2B3aKMOLXfwQNEpZaa5BopMLhITlvP7C6OrvQ9p1LcNDK8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

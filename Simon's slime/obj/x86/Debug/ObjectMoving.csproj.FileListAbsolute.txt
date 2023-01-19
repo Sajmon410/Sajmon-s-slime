@@ -1,0 +1,103 @@
+C:\Users\mk\Desktop\ObjectMoving\bin\Debug\mushroom.png
+C:\Users\mk\Desktop\ObjectMoving\bin\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\ObjectMoving\bin\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\ObjectMoving\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mk\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+C:\Users\mk\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+C:\Users\mk\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.Cache
+C:\Users\mk\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\ObjectMoving\bin\Debug\player.png
+C:\Users\mk\Desktop\ObjectMoving\bin\Debug\simonceeeee.jpg
+C:\Users\mk\Desktop\ObjectMoving\bin\Debug\slime.gif
+C:\Users\mk\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.Formapp.resources
+C:\Users\mk\Desktop\ObjectMoving\bin\Debug\donutgamwe.png
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\bin\Debug\donutgamwe.png
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\bin\Debug\mushroom.png
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\bin\Debug\player.png
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\bin\Debug\simonceeeee.jpg
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\bin\Debug\slime.gif
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\bin\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\bin\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.Formapp.resources
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.Cache
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.howtoplay.resources
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.areusure.resources
+C:\Users\mk\Desktop\C# Programs\ObjectMoving\obj\x86\Debug\ObjectMoving.entername.resources
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
+C:\Users\PC\Desktop\ObjectMoving\bin\Debug\donutgamwe.png
+C:\Users\PC\Desktop\ObjectMoving\bin\Debug\mushroom.png
+C:\Users\PC\Desktop\ObjectMoving\bin\Debug\player.png
+C:\Users\PC\Desktop\ObjectMoving\bin\Debug\simonceeeee.jpg
+C:\Users\PC\Desktop\ObjectMoving\bin\Debug\slime.gif
+C:\Users\PC\Desktop\ObjectMoving\bin\Debug\ObjectMoving.exe
+C:\Users\PC\Desktop\ObjectMoving\bin\Debug\ObjectMoving.pdb
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.areusure.resources
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.entername.resources
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.Formapp.resources
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.howtoplay.resources
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+C:\Users\PC\Desktop\ObjectMoving\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.Cache
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\bin\Debug\donutgamwe.png
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\bin\Debug\mushroom.png
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\bin\Debug\player.png
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\bin\Debug\simonceeeee.jpg
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\bin\Debug\slime.gif
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\bin\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\bin\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.areusure.resources
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.entername.resources
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.Formapp.resources
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.FormView.resources
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.howtoplay.resources
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+C:\Users\mk\Desktop\bogu hvala radi\ObjectMoving\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.Cache
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\bin\Debug\donutgamwe.png
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\bin\Debug\mushroom.png
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\bin\Debug\player.png
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\bin\Debug\simonceeeee.jpg
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\bin\Debug\slime.gif
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\bin\Debug\ObjectMoving.exe
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\bin\Debug\ObjectMoving.pdb
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.areusure.resources
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.entername.resources
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.Formapp.resources
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.FormView.resources
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.howtoplay.resources
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+C:\Users\mk\Desktop\bogu hvala radi\Simon's slime\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.Cache
+G:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.exe
+G:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.pdb
+F:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.exe
+F:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.pdb
+E:\bogu hvala radi - Simon's slime\Simon's slime\bin\Debug\donutgamwe.png
+E:\bogu hvala radi - Simon's slime\Simon's slime\bin\Debug\slime.gif
+E:\bogu hvala radi - Simon's slime\Simon's slime\bin\Debug\ObjectMoving.exe.config
+E:\bogu hvala radi - Simon's slime\Simon's slime\bin\Debug\ObjectMoving.exe
+E:\bogu hvala radi - Simon's slime\Simon's slime\bin\Debug\ObjectMoving.pdb
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.csproj.AssemblyReference.cache
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.csproj.SuggestedBindingRedirects.cache
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.areusure.resources
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.entername.resources
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.Formapp.resources
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.FormView.resources
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.howtoplay.resources
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.Properties.Resources.resources
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.csproj.GenerateResource.cache
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.csproj.CoreCompileInputs.cache
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.exe
+E:\bogu hvala radi - Simon's slime\Simon's slime\obj\x86\Debug\ObjectMoving.pdb
